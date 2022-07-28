@@ -1,0 +1,15 @@
+C:\Users\chiri\source\repos\Programacion\Programacion\bin\Debug\net6.0\Programacion.exe
+C:\Users\chiri\source\repos\Programacion\Programacion\bin\Debug\net6.0\Programacion.deps.json
+C:\Users\chiri\source\repos\Programacion\Programacion\bin\Debug\net6.0\Programacion.runtimeconfig.json
+C:\Users\chiri\source\repos\Programacion\Programacion\bin\Debug\net6.0\Programacion.dll
+C:\Users\chiri\source\repos\Programacion\Programacion\bin\Debug\net6.0\Programacion.pdb
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.csproj.AssemblyReference.cache
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.AssemblyInfoInputs.cache
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.AssemblyInfo.cs
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.csproj.CoreCompileInputs.cache
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.dll
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\refint\Programacion.dll
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.pdb
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\Programacion.genruntimeconfig.cache
+C:\Users\chiri\source\repos\Programacion\Programacion\obj\Debug\net6.0\ref\Programacion.dll
